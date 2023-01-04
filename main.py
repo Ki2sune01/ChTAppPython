@@ -6,6 +6,8 @@ from kivymd.app import MDApp
 KV = '''
 MDScreen:
 
+    MDNavigationDrawerDivider:
+
     MDNavigationLayout:
 
         MDScreenManager:
