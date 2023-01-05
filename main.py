@@ -46,6 +46,7 @@ MDScreen: #Создаём экран
                     title: "Menu title" #Название меню
                     title_color: "#000000" #Цвет названия
                     text: "Menu text" #Текст подменюшки
+                    source: "data/image/logo256.png" #Картинка менюшки
                     spacing: "4dp" #Размер???
                     padding: "12dp", 0, 0, "56dp"
 
